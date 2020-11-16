@@ -9,7 +9,7 @@ function getArr(...arg){
 
 ```js 
 /* 
-Object
+Object + data
 */  
 
 const posts = [
