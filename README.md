@@ -9,7 +9,11 @@ function getArr(...arg){
 
 ```   
 
-```js
+```js 
+/* 
+Object
+*/  
+
 const posts = [
 
     {
@@ -38,8 +42,7 @@ getPosts(posts)
 
 ```js 
 /* 
-Note: This code is a separate class that cannot function without an additional class.  
-It needs to accept the modal window itself.
+Class
 */ 
  
 class Popup {
@@ -65,8 +68,7 @@ class Popup {
 }
 ```   
 ```js 
-Note: this code was written using an editor and is based on a third-party  
-functional style component that cannot function without next
+React + next
 
 import Link from "next/link";
 import React from "react";
