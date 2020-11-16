@@ -1,6 +1,4 @@
 # Code 
- 
-//This code was written in this editor by hand.  
 
 ```js
 function getArr(...arg){
@@ -67,8 +65,10 @@ class Popup {
     };
 }
 ```   
-```js 
+```js  
+/* 
 React + next
+*/ 
 
 import Link from "next/link";
 import React from "react";
