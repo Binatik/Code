@@ -2,7 +2,7 @@
 
 ```js
 function getArr(...arg){
-    return arg.map(element => element+element)
+    return arg.map(element => element+element);
 } 
 
 ```   
@@ -34,7 +34,7 @@ function getPosts(arr){
     return arr.filter(({ photos }) => (photos.length !== 0));
 }
 
-getPosts(posts)
+getPosts(posts);
 
 ```     
 
@@ -77,19 +77,19 @@ const list =[
     {
         id: 1,
         title: 'Home',
-        url: '/'
+        url: '/',
     },
 
     {
         id: 2,
         title: 'Skills',
-        url: '/skills'
+        url: '/skills',
     },
 
     {
         id: 3,
         title: 'Portfolio',
-        url: '/portfolio'
+        url: '/portfolio',
     },
 ];
 
